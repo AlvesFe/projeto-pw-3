@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "sweetalert2": "^9.17.1"
+  },
+  "scripts": {
+    "bSass" : "sass --watch node_modules\\bootstrap\\scss\\bootstrap.scss:node_modules\\bootstrap\\dist\\css\\bootstrap.css"
+  }
+}
